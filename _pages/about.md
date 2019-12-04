@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the School of Electrical and Computer Engineering (ECE) at the Georgia Institute of Technology. I received the B.S. degree and the M. E. degree, both in Electrical Engineering, from Shanghai Jiao Tong Univiersy. I also received the M.S. degree from school of ECE, Georgia Tech. My current research interests include machine learning for optimization and multi-robot task allocation & scheduling.
+I am a Ph.D. student in the School of Electrical and Computer Engineering (ECE) at the Georgia Institute of Technology. I received the B.S. degree and the M. E. degree, both in Electrical Engineering, from Shanghai Jiao Tong Univiersy. I also received the M.S. degree from school of ECE, Georgia Tech. 
 
+I am a Research Assistant in the [Cognitive Optimization and Relational (CORE) Robotics lab](https://www.google.com), led by Prof. Matthew Gombolay. My current research interests include machine learning for optimization and multi-robot task allocation & scheduling.

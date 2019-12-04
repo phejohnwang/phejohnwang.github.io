@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. in Information Engineering, Shanghai Jiao Tong University, 2009 - 2013
+* M.E. in Electronic and Communication Engineering, Shanghai Jiao Tong University, 2013 - 2016
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2013 - 2016
+* Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, 2016 - Present
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming language: C/C++, Python, Matlab
+* Deep learning framework: PyTorch, Tensorflow, Keras
+* Digital image processing: OpenCV, GDAL
+* GUI design: Qt
+* Embedded system development : Raspberry Pi, Beaglebone Black , Bluefruit
+* Bluetooth low energy and proprietary wireless micro controller : CC254x, nRF52 series
+* Circuit design: KiCAD, Cadence
   
-Talks
+Honor & Award
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Best Live Demo Award , 2015 IEEE Biomed. Circuits Syst. Conf. (BioCAS), 2015

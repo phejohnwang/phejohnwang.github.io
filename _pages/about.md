@@ -14,4 +14,4 @@ I am a Graduate Research Assistant in the [Cognitive Optimization and Relational
 
 News
 ======
-(June 2020) Our paper on learning scheduling for multi-robot coordination is accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).
+:new: (June 2020) Our paper on learning scheduling for multi-robot coordination is accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).

@@ -10,15 +10,15 @@ You can also find my papers on my <u><a href="https://scholar.google.com/citatio
 
 # Journal Publications
 
-* **Learning scheduling policies for multi-robot coordination with graph attention networks**
+* **Learning scheduling policies for multi-robot coordination with graph attention networks**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _IEEE Robotics and Automation Letters_, accepted, June 2020.
 
-* **An automated behavior analysis system for freely moving rodents using depth image**
+* **An automated behavior analysis system for freely moving rodents using depth image**  
 <strong>Zheyuan Wang</strong>, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
 _Medical & Biological Engineering & Computing_, vol. 56, pp. 1807-1821, 2018.
 
-* **Position and orientation insensitive wireless power transmission for EnerCage-Homecage system**
+* **Position and orientation insensitive wireless power transmission for EnerCage-Homecage system**  
 Yaoyao Jia, S. Abdollah Mirbozorgi, <strong>Zheyuan Wang</strong>, and Maysam Ghovanloo  
 _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, Oct. 2017.
 

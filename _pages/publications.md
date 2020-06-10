@@ -38,6 +38,7 @@ _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2018
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2017
 [IEEE _Xplore_](https://ieeexplore.ieee.org/document/8325222)
 [Poster](https://phejohnwang.github.io//files/Poster_Wang_Y%20Maze_BioCAS17.pdf)
+[Demo](https://youtu.be/7EghMBZPsCk)
 
 * **A wirelessly-powered homecage with animal behavior analysis and closed-loop power control**  
 Yaoyao Jia, **Zheyuan Wang**, Daniel Canales, Morgan Tinkler, Chia-Chun Hsu, Teresa E. Madsen, S. Abdollah Mirbozorgi, Donald Rainnie and Maysam Ghovanloo  
@@ -53,6 +54,7 @@ _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, pp. 1548-
 **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2015
 [IEEE _Xplore_](https://ieeexplore.ieee.org/document/7348456)
+[Demo](https://youtu.be/hIp7S-jNpFk)
 
 * **A closed-loop wireless homecage for optogenetic stimulation experiments**  
 Yaoyao Jia, **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  

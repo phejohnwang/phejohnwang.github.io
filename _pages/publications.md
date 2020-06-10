@@ -12,7 +12,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 * **Learning scheduling policies for multi-robot coordination with graph attention networks**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _IEEE Robotics and Automation Letters_, accepted, June 2020
-[[Pdf]](https://phejohnwang.github.io/files/RAL20_robognn.pdf)
+[[PDF]](https://phejohnwang.github.io/files/RAL20_robognn.pdf)
 [[Video]](http://tiny.cc/y3vgkz)
 
 * **An automated behavior analysis system for freely moving rodents using depth image**  

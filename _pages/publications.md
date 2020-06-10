@@ -49,7 +49,7 @@ _38th Annual International Conference of the IEEE Engineering in Medicine and Bi
 **Zheyuan Wang**, Yuanxiang Li, Fangjie Yu, Wenxian Yu, Zhuhui Jiang, and Yongke Ding  
 _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, pp. 1548-1551, July 2016
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/7729395)
-[[Slides]](https://phejohnwang.github.io/files/Oral_ICARSS2016.pdf)
+[[Slides]](https://phejohnwang.github.io/files/Oral_IGARSS2016.pdf)
 
 * **Towards a Kinect-based behavior recognition and analysis system for small animals**  
 **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  

@@ -56,7 +56,7 @@ Yaoyao Jia, **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2015
 [IEEE _Xplore_](https://ieeexplore.ieee.org/document/7348392)
 
-* **Live demonstration: a smart homecage system with behavior analysis and closed-loop optogenetic stimulation capabilities**  
+* **Live demonstration: a smart homecage system with behavior analysis and closed-loop optogenetic stimulation capacibilities**  
 Yaoyao Jia, **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-1, Oct. 2015
 [IEEE _Xplore_](https://ieeexplore.ieee.org/document/7348331)

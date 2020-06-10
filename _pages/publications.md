@@ -12,7 +12,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 * **Learning scheduling policies for multi-robot coordination with graph attention networks**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _IEEE Robotics and Automation Letters_, accepted, June 2020
-[[Pdf]](https://phejohnwang.github.io//files/RAL20_robognn.pdf)
+[[Pdf]](https://phejohnwang.github.io/files/RAL20_robognn.pdf)
 [[Video]](http://tiny.cc/y3vgkz)
 
 * **An automated behavior analysis system for freely moving rodents using depth image**  
@@ -31,13 +31,13 @@ _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, O
 <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2018
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/abstract/document/8584673)
-[[Poster]](https://phejohnwang.github.io//files/Poster_Wang_Convulsion_BioCAS18.pdf)
+[[Poster]](https://phejohnwang.github.io/files/Poster_Wang_Convulsion_BioCAS18.pdf)
 
 * **An automated tracking system for Y-maze behavioral test using Kinect depth imaging**  
 **Zheyuan Wang**, Kevin Murnane, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2017
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/8325222)
-[[Poster]](https://phejohnwang.github.io//files/Poster_Wang_Y%20Maze_BioCAS17.pdf)
+[[Poster]](https://phejohnwang.github.io/files/Poster_Wang_Y%20Maze_BioCAS17.pdf)
 [[Video]](https://youtu.be/7EghMBZPsCk)
 
 * **A wirelessly-powered homecage with animal behavior analysis and closed-loop power control**  
@@ -49,6 +49,7 @@ _38th Annual International Conference of the IEEE Engineering in Medicine and Bi
 **Zheyuan Wang**, Yuanxiang Li, Fangjie Yu, Wenxian Yu, Zhuhui Jiang, and Yongke Ding  
 _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, pp. 1548-1551, July 2016
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/7729395)
+[[Slides]](https://phejohnwang.github.io/files/Oral_ICARSS2016.pdf)
 
 * **Towards a Kinect-based behavior recognition and analysis system for small animals**  
 **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  

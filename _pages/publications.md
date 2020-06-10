@@ -10,7 +10,7 @@ You can also find my papers on my <u><a href="https://scholar.google.com/citatio
 
 # Journal Publications
 
-* **Learning scheduling policies for multi-robot coordination with graph attention networks**  
+* <font size=20>**Learning scheduling policies for multi-robot coordination with graph attention networks**</font>
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _IEEE Robotics and Automation Letters_, accepted, June 2020.
 

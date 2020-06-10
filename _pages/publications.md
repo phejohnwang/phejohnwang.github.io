@@ -12,22 +12,26 @@ You can also find my papers on my <u><a href="https://scholar.google.com/citatio
 
 * **Learning scheduling policies for multi-robot coordination with graph attention networks**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
-_IEEE Robotics and Automation Letters_, accepted, June 2020.
+_IEEE Robotics and Automation Letters_, accepted, June 2020
 
 * **An automated behavior analysis system for freely moving rodents using depth image**  
 <strong>Zheyuan Wang</strong>, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
-_Medical & Biological Engineering & Computing_, vol. 56, pp. 1807-1821, 2018.
+_Medical & Biological Engineering & Computing_, vol. 56, pp. 1807-1821, 2018
 
 * **Position and orientation insensitive wireless power transmission for EnerCage-Homecage system**  
 Yaoyao Jia, S. Abdollah Mirbozorgi, <strong>Zheyuan Wang</strong>, and Maysam Ghovanloo  
-_IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, Oct. 2017.
+_IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, Oct. 2017
 
 # Conference Publications
 
-#### Deep convolutional neural networks for automated convulsion scoring using RGB-D images
-* <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
-* IEEE Biomed. Circuits Syst. Conf. (BioCAS). Oct. 2018.
+* **Deep convolutional neural networks for automated convulsion scoring using RGB-D images**  
+<strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
+_IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2018
 
-#### An automated tracking system for Y-maze behavioral test using Kinect depth imaging
-* **Zheyuan Wang**, Kevin Murnane, and Maysam Ghovanloo  
-* IEEE Biomed. Circuits Syst. Conf. (BioCAS), pp. 1-4, Oct. 2017.
+* **An automated tracking system for Y-maze behavioral test using Kinect depth imaging**  
+**Zheyuan Wang**, Kevin Murnane, and Maysam Ghovanloo  
+_IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2017
+
+* **A wirelessly-powered homecage with animal behavior analysis and closed-loop power control**  
+Yaoyao Jia, **Zheyuan Wang**, Daniel Canales, Morgan Tinkler, Chia-Chun Hsu, Teresa E. Madsen, S. Abdollah Mirbozorgi, Donald Rainnie and Maysam Ghovanloo  
+_38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, pp. 6323-6326, Aug. 2016

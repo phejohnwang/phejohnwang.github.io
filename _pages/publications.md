@@ -24,4 +24,6 @@ _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, O
 
 # Conference Publications
 
+<font size=20>test font size 20</font>
 
+<font size=10>test font size 10</font>

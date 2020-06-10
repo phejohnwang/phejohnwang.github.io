@@ -25,9 +25,9 @@ _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, O
 # Conference Publications
 
 #### Deep convolutional neural networks for automated convulsion scoring using RGB-D images
-<strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
-IEEE Biomed. Circuits Syst. Conf. (BioCAS). Oct. 2018.
+* <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
+* IEEE Biomed. Circuits Syst. Conf. (BioCAS). Oct. 2018.
 
 #### An automated tracking system for Y-maze behavioral test using Kinect depth imaging
-**Zheyuan Wang**, Kevin Murnane, and Maysam Ghovanloo
-IEEE Biomed. Circuits Syst. Conf. (BioCAS), pp. 1-4, Oct. 2017.
+* **Zheyuan Wang**, Kevin Murnane, and Maysam Ghovanloo  
+* IEEE Biomed. Circuits Syst. Conf. (BioCAS), pp. 1-4, Oct. 2017.

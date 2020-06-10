@@ -17,10 +17,12 @@ _IEEE Robotics and Automation Letters_, accepted, June 2020
 * **An automated behavior analysis system for freely moving rodents using depth image**  
 <strong>Zheyuan Wang</strong>, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
 _Medical & Biological Engineering & Computing_, vol. 56, pp. 1807-1821, 2018
+[Springer](https://link.springer.com/article/10.1007/s11517-018-1816-1)
 
 * **Position and orientation insensitive wireless power transmission for EnerCage-Homecage system**  
 Yaoyao Jia, S. Abdollah Mirbozorgi, <strong>Zheyuan Wang</strong>, and Maysam Ghovanloo  
 _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, Oct. 2017
+[IEEE _Xplore_](https://ieeexplore.ieee.org/abstract/document/7894178)
 
 # Conference Publications
 

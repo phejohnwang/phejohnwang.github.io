@@ -14,6 +14,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 _IEEE Robotics and Automation Letters_, accepted, June 2020
 [[PDF]](https://phejohnwang.github.io/files/RAL20_robognn.pdf)
 [[Video]](http://tiny.cc/y3vgkz)
+[[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/9116987)
 
 * **An automated behavior analysis system for freely moving rodents using depth image**  
 <strong>Zheyuan Wang</strong>, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
@@ -23,14 +24,14 @@ _Medical & Biological Engineering & Computing_, vol. 56, pp. 1807-1821, 2018
 * **Position and orientation insensitive wireless power transmission for EnerCage-Homecage system**  
 Yaoyao Jia, S. Abdollah Mirbozorgi, <strong>Zheyuan Wang</strong>, and Maysam Ghovanloo  
 _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, Oct. 2017
-[[IEEE _Xplore_]](https://ieeexplore.ieee.org/abstract/document/7894178)
+[[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/7894178)
 
 # Conference Publications
 
 * **Deep convolutional neural networks for automated convulsion scoring using RGB-D images**  
 <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2018
-[[IEEE _Xplore_]](https://ieeexplore.ieee.org/abstract/document/8584673)
+[[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/8584673)
 [[Poster]](https://phejohnwang.github.io/files/Poster_Wang_Convulsion_BioCAS18.pdf)
 
 * **An automated tracking system for Y-maze behavioral test using Kinect depth imaging**  

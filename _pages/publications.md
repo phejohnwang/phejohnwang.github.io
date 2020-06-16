@@ -13,8 +13,8 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _IEEE Robotics and Automation Letters_, accepted, June 2020
 [[PDF]](https://phejohnwang.github.io/files/RAL20_robognn.pdf)
-[[Video]](http://tiny.cc/y3vgkz)
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/9116987)
+[[Video]](http://tiny.cc/y3vgkz)
 
 * **An automated behavior analysis system for freely moving rodents using depth image**  
 <strong>Zheyuan Wang</strong>, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  

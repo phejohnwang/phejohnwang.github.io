@@ -28,6 +28,11 @@ _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, O
 
 # Conference Publications
 
+* **Heterogeneous graph attention networks for scalable multi-robot scheduling with temporospatial constraints**  
+<strong>Zheyuan Wang</strong> and Matthew Gombolay  
+_Robotics: Science and Systems_, July 2020
+[[Abstract]](https://roboticsconference.org/program/papers/94/)
+
 * **Deep convolutional neural networks for automated convulsion scoring using RGB-D images**  
 <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2018
@@ -63,7 +68,7 @@ Yaoyao Jia, **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2015
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/7348392)
 
-* **Live demonstration: a smart homecage system with behavior analysis and closed-loop optogenetic stimulation capacibilities**  
+* **Live demonstration: A smart homecage system with behavior analysis and closed-loop optogenetic stimulation capacibilities**  
 Yaoyao Jia, **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-1, Oct. 2015
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/7348331)

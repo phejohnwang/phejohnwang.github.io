@@ -14,4 +14,6 @@ I am a Graduate Research Assistant in the [Cognitive Optimization and Relational
 
 News
 ======
+(June 2020) Our [ScheduleNet](https://roboticsconference.org/program/papers/94/) paper will be presented virtually in [RSS 2020](https://roboticsconference.org/).
+
 (June 2020) Our paper on [learning scheduling for multi-robot coordination](https://phejohnwang.github.io/files/RAL20_robognn.pdf) is accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).

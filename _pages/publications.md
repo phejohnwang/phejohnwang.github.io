@@ -31,7 +31,8 @@ _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, O
 * **Heterogeneous graph attention networks for scalable multi-robot scheduling with temporospatial constraints**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _Robotics: Science and Systems_, July 2020
-[[Abstract]](https://roboticsconference.org/program/papers/94/)
+[[PDF]](http://www.roboticsproceedings.org/rss16/p094.pdf)
+[[Page]](https://roboticsconference.org/program/papers/94/)
 
 * **Deep convolutional neural networks for automated convulsion scoring using RGB-D images**  
 <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  

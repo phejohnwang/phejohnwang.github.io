@@ -11,7 +11,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 * **Learning scheduling policies for multi-robot coordination with graph attention networks**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
-_IEEE Robotics and Automation Letters_, accepted, June 2020
+_IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 4509-4516, June 2020 (To be presented at _IROS 2020_)
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/9116987)
 [[PDF]](https://phejohnwang.github.io/files/RAL20_robognn.pdf)
 [[Video]](http://tiny.cc/y3vgkz)
@@ -31,8 +31,9 @@ _IEEE Transactions on Biomedical Engineering_, vol. 64, no. 10, pp. 2439-2449, O
 * **Heterogeneous graph attention networks for scalable multi-robot scheduling with temporospatial constraints**  
 <strong>Zheyuan Wang</strong> and Matthew Gombolay  
 _Robotics: Science and Systems_, July 2020
-[[PDF]](http://www.roboticsproceedings.org/rss16/p094.pdf)
 [[Page]](https://roboticsconference.org/program/papers/94/)
+[[PDF]](http://www.roboticsproceedings.org/rss16/p094.pdf)
+[[Video]](https://youtu.be/W5eXnJDPm_Q)
 
 * **Deep convolutional neural networks for automated convulsion scoring using RGB-D images**  
 <strong>Zheyuan Wang</strong>, Azizi Ray, Kevin S. Murnane, and Maysam Ghovanloo  

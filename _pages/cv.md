@@ -29,3 +29,9 @@ Skills
 Honor & Award
 ======
 * Best Live Demo Award , 2015 IEEE Biomed. Circuits Syst. Conf. (BioCAS), 2015
+
+Course TA'd
+======
+* ECE 2026 - Introduction to Signal Processing (Head TA)
+* ECE 2020 - Fundamentals of Digital System Design
+* CS 7648 - Interactive Robot Learning

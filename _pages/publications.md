@@ -9,7 +9,7 @@ You can also find my papers on my [Google Scholar](https://scholar.google.com/ci
 
 # Journal Publications
 
-* **Heterogeneous Graph Attention Networks for Scalable Multi-Robot Scheduling with Temporospatial Constraints**  
+* **Heterogeneous graph attention networks for scalable multi-robot scheduling with temporospatial constraints**  
 <strong>Zheyuan Wang</strong>, Chen Liu, and Matthew Gombolay  
 _Autonomous Robots_, accepted
 [[PDF]](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/d/958/files/2021/07/AURO_RSS20_Preprint.pdf)

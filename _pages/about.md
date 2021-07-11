@@ -14,6 +14,8 @@ I am a Graduate Research Assistant in the [Cognitive Optimization and Relational
 
 News
 ======
+(June 2021) We have extended ScheduleNet to enable [coordinating teams of heterogeneous robots](https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/d/958/files/2021/07/AURO_RSS20_Preprint.pdf) in 2D areas, which is accepted to [Autonomous Robots](https://www.springer.com/journal/10514/).
+
 (June 2020) Our [ScheduleNet](http://www.roboticsproceedings.org/rss16/p094.pdf) paper will be presented virtually in [RSS 2020](https://roboticsconference.org/).
 
 (June 2020) Our paper on [learning scheduling for multi-robot coordination](https://phejohnwang.github.io/files/RAL20_robognn.pdf) is accepted to [RA-L](https://www.ieee-ras.org/publications/ra-l).

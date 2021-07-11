@@ -79,3 +79,10 @@ _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-4, Oct. 2015
 Yaoyao Jia, **Zheyuan Wang**, S. Abdollah Mirbozorgi, and Maysam Ghovanloo  
 _IEEE Biomedical Circuits and Systems Conference (BioCAS)_, pp. 1-1, Oct. 2015
 [[IEEE _Xplore_]](https://ieeexplore.ieee.org/document/7348331)
+
+# Preprints
+
+* **Learning to dynamically coordinate multi-robot teams in graph attention networks**  
+<strong>Zheyuan Wang</strong> and Matthew Gombolay  
+_arXiv:1912.02059_, Dec. 2019
+[[PDF]](https://arxiv.org/pdf/1912.02059.pdf)
